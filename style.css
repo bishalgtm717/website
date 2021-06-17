@@ -1,0 +1,146 @@
+body {
+    margin:0;
+    text-align: center;
+     color: #40514e;  
+
+}
+
+
+
+h1 {
+    line-height: 2;
+     margin-top: 50px auto;
+    font-family: 'Dancing Script', cursive;
+    color: #66bfbf;
+    
+}
+
+h2{
+    padding-bottom: 0;
+    font-weight: normal;
+    font-family: 'Merriweather', serif;
+    color: #66bfbf;
+    
+
+}
+h3{
+     
+    color: #11999e;
+  
+    font-family: 'Merriweather', serif;
+
+
+}
+.ha{
+    color: #11999e;
+    padding-top: 170px;
+    padding-bottom: 20px;
+  
+    font-family: 'Merriweather', serif;
+
+}
+
+.top_container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle_container{  
+    margin: 100px 0; 
+    
+ 
+}
+.bottom_container{
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
+
+
+.pro{
+     margin-top: 50px;
+     text-decoration: underline;
+ }
+
+.top_cloud{
+     position: absolute;
+     right: 300px;
+     top:50px;
+   
+
+ }
+.bottom_cloud{
+     position: absolute;
+     left: 300px;
+     bottom: 300px;
+ }
+.bishal{
+     width: 200px;
+     height: 200px;
+ }
+
+.bi{
+     width: 25%;
+     margin-top: 150px;
+     float: right;
+     margin-left: 30px;
+ }
+.mountain{
+     width: 700px;
+     height: 500px;
+ }
+.skill_row{
+     line-height: 1.5;
+     width: 50%;
+     text-align: left;
+     margin: 100px auto 100px auto;
+ }
+.b{
+     width: 25%;
+     float: left;
+     margin-right: 30px;
+     
+ }
+ .intro{
+     width: 30%;
+     margin: auto;
+ }
+ hr{
+     border:dotted #eaf6f6 6px;
+     border-bottom: none;
+     width:4%;
+     margin:100px auto;
+ }
+
+ .contact_message{
+     width: 40%;
+     margin: 40px auto 60px;
+     
+     
+ }
+
+ .bf{
+    font-family: 'Merriweather', serif;
+   
+
+ }
+ a {
+    color:#11999e;
+    margin:10px 20px;
+    text-decoration: none;
+ }
+ a:hover{
+     color: #eaf6f6;
+
+  }
+ .copy{
+     color: #eaf6f6;
+     font-size: 0.75rem;
+     padding: 20px 0;
+
+ }
+ p{
+     color: #40514e;
+     font-weight:normal;
+ }
+ 
